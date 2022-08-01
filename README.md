@@ -1,6 +1,3 @@
-# Self-Signed-Certificate-with-Custom-Root-CA
-Self Signed Certificate with Custom Root CA
-
 # Create Root CA (Done once)
 
 ## Create Root Key
